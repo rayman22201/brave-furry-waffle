@@ -1,0 +1,1962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"guide",
+				"guideBall"
+			],
+			[
+				"hud",
+				"hudText"
+			],
+			[
+				"doubl",
+				"doubleHeight"
+			],
+			[
+				"doul",
+				"doubleWidth"
+			],
+			[
+				"norm",
+				"normalizedY"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"gui",
+				"guideBall"
+			],
+			[
+				"did",
+				"didTap"
+			],
+			[
+				"init",
+				"initial"
+			],
+			[
+				"rotation",
+				"rotationVelocity"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rot",
+				"rotation"
+			],
+			[
+				"Eye",
+				"Eyeball"
+			],
+			[
+				"reset",
+				"resetVars"
+			],
+			[
+				"textur",
+				"textureIndex"
+			],
+			[
+				"textu",
+				"textureIndex"
+			],
+			[
+				"spring",
+				"springForce"
+			],
+			[
+				"sprin",
+				"springVelocity"
+			],
+			[
+				"spr",
+				"springVelocity"
+			],
+			[
+				"spri",
+				"springVelocity"
+			],
+			[
+				"old",
+				"oldPos"
+			],
+			[
+				"Spring",
+				"springForce"
+			],
+			[
+				"SPRING",
+				"SPRING_TOLERANCE"
+			],
+			[
+				"scal",
+				"scale"
+			],
+			[
+				"scale",
+				"scaleVelocity"
+			],
+			[
+				"sca",
+				"scaleVelocity"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"anim",
+				"animClock"
+			],
+			[
+				"ani",
+				"animClock"
+			],
+			[
+				"texCo",
+				"texColor"
+			],
+			[
+				"generate",
+				"generateAllLayers"
+			],
+			[
+				"verte",
+				"vertexPosition"
+			],
+			[
+				"fur_n",
+				"fur_NumLayers"
+			],
+			[
+				"model",
+				"modelViewProjection"
+			],
+			[
+				"texSam",
+				"texSampler2D"
+			],
+			[
+				"vid",
+				"vidTexId"
+			],
+			[
+				"GL_TE",
+				"GL_TEXTURE_2D"
+			],
+			[
+				"fur",
+				"furTexId"
+			],
+			[
+				"Image",
+				"ImageCache"
+			],
+			[
+				"image",
+				"imagecache_path"
+			],
+			[
+				"prod",
+				"product_node"
+			],
+			[
+				"_gvt",
+				"_gvt_spritify_recursive_delete"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"get_r",
+				"get_errors"
+			],
+			[
+				"request",
+				"request_uri"
+			],
+			[
+				"target",
+				"target_nid"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"_SE",
+				"_SESSION"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"drupal_",
+				"drupal_set_message"
+			],
+			[
+				"refer",
+				"referer"
+			],
+			[
+				"black",
+				"blackoutDates"
+			],
+			[
+				"uc_cart_view",
+				"uc_cart_view_form"
+			],
+			[
+				"drupal",
+				"drupal_set_message"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"compl",
+				"completeAllowed"
+			],
+			[
+				"catchP",
+				"catchPhrase"
+			],
+			[
+				"savings",
+				"savingsTotal"
+			],
+			[
+				"animate",
+				"animateExpandedItem"
+			],
+			[
+				"defau",
+				"defaultSet"
+			],
+			[
+				"user",
+				"userSelected"
+			],
+			[
+				"activi",
+				"activityDate"
+			],
+			[
+				"popup",
+				"popupStart"
+			],
+			[
+				"qty",
+				"qtySelectBox"
+			],
+			[
+				"pop",
+				"popupStart"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"pbItem",
+				"pbItemQueue"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"typ",
+				"typeSelectBox"
+			],
+			[
+				"qt",
+				"qtySelectBox"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"popupSe",
+				"popupSetStartState"
+			],
+			[
+				"date",
+				"date_time"
+			],
+			[
+				"all",
+				"allowComplete"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"replace",
+				"replace_id"
+			],
+			[
+				"defa",
+				"default_type"
+			],
+			[
+				"cart-item",
+				"cart-item-dateObj"
+			],
+			[
+				"remove",
+				"remove-warning"
+			],
+			[
+				"value",
+				"valueOf"
+			],
+			[
+				"ene",
+				"enqueue"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"pbIt",
+				"pbItemQueue"
+			],
+			[
+				"mm",
+				"mm/dd/yy"
+			],
+			[
+				"pbI",
+				"pbItemQueue"
+			],
+			[
+				"acc",
+				"accordion"
+			],
+			[
+				"type",
+				"type=\"text/javascript"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"jquery_ui_",
+				"jquery_ui_selectbox_js"
+			],
+			[
+				"PA",
+				"PACKAGE_BUILDER_JQUERY_UI_SELECT_BOX_CSS"
+			],
+			[
+				"this",
+				"this_data"
+			],
+			[
+				"Q",
+				"Quantity"
+			],
+			[
+				"JS",
+				"JSON"
+			],
+			[
+				"invalid",
+				"invalidDates"
+			],
+			[
+				"pb_jq",
+				"pb_jquery_ui"
+			],
+			[
+				"j",
+				"jquery_ui_js"
+			],
+			[
+				"jquery_ui",
+				"jquery_ui_css"
+			],
+			[
+				"PACK",
+				"PACKAGE_BUILDER_POPUP_JS"
+			],
+			[
+				"PACKA",
+				"PACKAGE_BUILDER_JQUERY_UI_JS_DEV"
+			],
+			[
+				"jque",
+				"jquery_ui_css"
+			],
+			[
+				"D6",
+				"D6DBObject"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"s",
+				"switch	switch …"
+			],
+			[
+				"args",
+				"args"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"what",
+				"what-we-lov"
+			],
+			[
+				"po",
+				"policy"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"db",
+				"dbdata"
+			],
+			[
+				"imp",
+				"implements	@implements"
+			],
+			[
+				"NULL",
+				"NULL"
+			],
+			[
+				"gener",
+				"generateForm"
+			],
+			[
+				"p",
+				"param	@param"
+			],
+			[
+				"doc",
+				"doc_s	Function Signature"
+			],
+			[
+				"json_",
+				"json_decode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/src/com/qualcomm/QCARSamples/Dominoes/Dominoes.java",
+			"settings":
+			{
+				"buffer_size": 31349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lemmings/src/com/qualcomm/QCARSamples/ImageTargets/ImageTargets.java",
+			"settings":
+			{
+				"buffer_size": 31918,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Ray/Documents/CS480/senior_design/helloWorld/src/com/example/myapp/myActivity.java",
+			"settings":
+			{
+				"buffer_size": 997,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lemmings/jni/ImageTargets.cpp",
+			"settings":
+			{
+				"buffer_size": 52231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Dominoes.cpp",
+			"settings":
+			{
+				"buffer_size": 47429,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Dominoes.h",
+			"settings":
+			{
+				"buffer_size": 6474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lemmings/jni/glow_shaders.h",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/math.h",
+			"settings":
+			{
+				"buffer_size": 13254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/src/com/qualcomm/QCARSamples/Dominoes/GUIManager.java",
+			"settings":
+			{
+				"buffer_size": 5698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/CubeShaders.h",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lemmings/jni/fur_shaders.h",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lemmings/jni/SampleUtils.h",
+			"settings":
+			{
+				"buffer_size": 2124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lemmings/jni/SampleUtils.cpp",
+			"settings":
+			{
+				"buffer_size": 6964,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lemmings/jni/Android.mk",
+			"settings":
+			{
+				"buffer_size": 4372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lemmings/jni/SampleMath.cpp",
+			"settings":
+			{
+				"buffer_size": 10736,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"git ch",
+				"Git: Checkout Remote Branch"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pll",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"git che",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"phpc",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"l",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"lin",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git b",
+				"Git: Change Branch"
+			],
+			[
+				"git pull c",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"git p",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"br",
+				"Git: Change Branch"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"git chag",
+				"Git: Change Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"gi",
+				"Git: Change Branch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"panel",
+				"SFTP: Show Panel"
+			],
+			[
+				"goto",
+				"Goto Drupal API"
+			],
+			[
+				"got",
+				"Goto Documentation"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"outpu",
+				"Set Syntax: SFTP Output Panel"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Check current file"
+			],
+			[
+				"ftpsy",
+				"FTPSync: Check current file"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ray/Desktop/Texample.java",
+		"/C/Users/Ray/Documents/CS480/senior_design/fur example C/main.cpp",
+		"/C/vuforia-sdk-android-1-5-9/samples/VirtualButtons/src/com/qualcomm/QCARSamples/VirtualButtons/VirtualButtons.java",
+		"/C/vuforia-sdk-android-1-5-9/samples/VirtualButtons/jni/VirtualButtons.cpp",
+		"/C/Users/Ray/Documents/CS480/gaussian_blur_shader.frag",
+		"/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/CubeShaders.h",
+		"/C/Users/Ray/Desktop/glow.cpp",
+		"/C/Users/Ray/Desktop/post_corona.fx",
+		"/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Dominoes.h",
+		"/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/SampleUtils.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/fur example/main.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/fur example B/main.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/fur example/fur.fx",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/fur_shaders.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/fur example B/XFurTexture.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/FurTexture.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/Texture.cpp",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/Texture.h",
+		"/C/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdlib.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/CubeShaders.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/SampleUtils.cpp",
+		"/C/vuforia-sdk-android-1-5-9/samples/BackgroundTextureAccess/jni/BackgroundTextureAccess.cpp",
+		"/C/vuforia-sdk-android-1-5-9/samples/OcclusionManagement/jni/OcclusionManagement.cpp",
+		"/C/vuforia-sdk-android-1-5-9/samples/OcclusionManagement/jni/Shaders.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/src/com/qualcomm/QCARSamples/ImageTargets/ImageTargets.java",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/FurTexture.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/Android.mk",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/buildLemmings.sh",
+		"/C/vuforia-sdk-android-1-5-9/samples/BackgroundTextureAccess/jni/Shaders.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/res/values/strings.xml",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/sphere.h",
+		"/C/vuforia-sdk-android-1-5-9/samples/OcclusionManagement/jni/SampleUtils.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/Lemmings/jni/Shaders.h",
+		"/C/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/sphere.h",
+		"/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Cube.h",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/ImageTargets/jni/Android.mk",
+		"/C/Users/Ray/Documents/CS480/senior_design/brave-furry-waffle/ImageTargets/jni/ImageTargets.cpp",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/gvt_spritify.module",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/includes/css_sprite.class.php",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/Git/git.py",
+		"/C/galavantier/sites/all/modules/_custom/gvt_checkout/js/gvt_review.js",
+		"/C/galavantier/sites/all/modules/admin_menu/admin_menu.inc",
+		"/C/galavantier/sites/all/modules/admin_menu/admin_menu.module",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/gvt_spritify.info",
+		"/C/galavantier/sites/all/modules/imagecache/imagecache.module",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/includes/examples/download_sprite_example.php",
+		"/C/galavantier/sites/all/themes/basic/templates/views-view--events--page-1.tpl.php",
+		"/C/galavantier/sites/all/modules/imagecache/README.txt",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/includes/examples/css_code_example.php",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/includes/examples/image_output_example.php",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/imagefield/imagefield_formatter.inc",
+		"/C/galavantier/sites/all/themes/basic/css/default.css",
+		"/C/galavantier/sites/all/themes/basic/js/lib.js",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/test_css.html",
+		"/C/galavantier/sites/all/modules/_custom/gvt_spritify/gvt_spritify.install",
+		"/C/galavantier/sites/all/themes/basic/template.php",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/imagefield/imagefield.module",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/imagefield/imagefield_file.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/imagefield/imagefield_widget.inc",
+		"/C/galavantier/sites/all/modules/cck/includes/views/content.views.inc",
+		"/C/galavantier/sites/all/modules/cck/includes/content.token.inc",
+		"/C/galavantier/sites/all/modules/cck/includes/views/handlers/content_plugin_display_simple.inc",
+		"/C/galavantier/sites/all/modules/cck/includes/views/content.views_convert.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/filefield/views/filefield.views_convert.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/filefield/views/filefield_handler_field_data.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/filefield/views/filefield_handler_field_icon.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/filefield/views/filefield.views.inc",
+		"/C/galavantier/sites/all/modules/_contrib/cck_related/filefield_sources/README.txt",
+		"/C/galavantier/sites/all/modules/_contrib/imagecache_profiles/README.txt",
+		"/C/galavantier/sites/all/modules/_contrib/imagecache_profiles/views/imagecache_profiles.views.inc",
+		"/C/galavantier/sites/all/modules/views/plugins/views_plugin_cache.inc",
+		"/C/galavantier/sites/all/modules/_custom/gvt_theme_functions/includes/gvt_theme_functions.views.inc",
+		"/C/galavantier/sites/all/modules/imagecache/imagecache.api.php",
+		"/C/Users/Ray/Documents/css_spritify_php_class/css_sprite.class.php",
+		"/C/galavantier/sites/all/modules/_custom/non_partner_lead_gen/non_partner_lead_gen.module",
+		"/C/galavantier/sites/all/modules/_custom/non_partner_lead_gen/includes/non_partner_lead_gen.form.inc",
+		"/C/galavantier/sites/all/modules/_custom/gvt_checkout/js/gvt_checkout.validate_panes.js",
+		"/C/galavantier/sites/all/modules/_custom/gvt_checkout/gvt_checkout.module",
+		"/C/galavantier/sites/all/modules/_custom/gvt_checkout/js/gvt_checkout.js",
+		"/C/galavantier/sites/all/modules/_custom/ratesheet/ratesheet.module",
+		"/C/galavantier/sites/all/modules/_custom/gvt_theme_functions/gvt_theme_functions.module",
+		"/C/galavantier/sites/all/themes/basic/templates/node-experience_item_product.tpl.php",
+		"/C/galavantier/sites/all/themes/basic/templates/node-item_voucher.tpl.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/page-pb-app.tpl.php",
+		"/C/galavantier/sites/all/themes/basic/templates/page.tpl.php",
+		"/C/galavantier/sites/all/themes/basic/templates/page-node-travel-package-product.tpl.php",
+		"/C/galavantier/sites/all/modules/_custom/ratesheet/css/ratesheet.css",
+		"/C/galavantier/sites/all/modules/_custom/ratesheet/js/ratesheet.js",
+		"/C/Users/Ray/Documents/customVCBuild.bat",
+		"/C/galavantier/sites/all/modules/_custom/lead_gen/includes/lead_gen.form.inc",
+		"/C/galavantier/sites/all/modules/_custom/lead_gen/lead_gen.module",
+		"/C/galavantier/sites/all/modules/_custom/lead_gen/js/lead_gen.js",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/ShowsCollapsedItem.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/CollapsedItem.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/Item.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/Category.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/D6DBObject.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/ShowsCategory.php",
+		"/C/galavantier/sites/all/modules/ubercart/uc_cart/uc_cart.pages.inc",
+		"/C/galavantier/sites/all/modules/ubercart/uc_cart/uc_cart_checkout_pane.inc",
+		"/C/galavantier/sites/all/modules/ubercart/uc_cart/uc_cart.module",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/js/pb-app.js",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/css/pb-app.css",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/package_builder.ajax.inc",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/package_builder.module",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/popup-item.tpl.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/css/jquery.ui.dialog.css",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/css/jquery.selectboxit.css",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/ShowsPopupItem.php",
+		"/C/xampp/php/php-cs-fixer.bat",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/js/popupItem.js",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/page-pb-landing.tpl.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/page-pb-city.tpl.php",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Ray/Documents/SublimeText2License.txt",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/lib/ToursPopupItem.php",
+		"/C/galavantier/sftp-config.json",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/package_builder.init.inc",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/includes/package_builder.common.inc",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/expanded-item.tpl.php",
+		"/C/galavantier/sites/all/modules/_custom/package_builder/theme/cart-item.tpl.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tv",
+			"onInit",
+			"mGlView",
+			"projectScreenPointToPlane",
+			"projectionMatrix",
+			"inverseProjMatrix",
+			"screenWidth",
+			"storeScreenDimensions",
+			"screenWidth",
+			"modelViewMatrix",
+			"inverseProjMatrix",
+			"projectScreenPointToPlane",
+			"updateAugmentation",
+			"bgOrthoProjMatrix",
+			"mod",
+			".png",
+			"modelViewProjection",
+			"newpos",
+			"oldpos",
+			"g_vForce",
+			"g_vGravity",
+			"textures",
+			"Density",
+			"UVScale",
+			"furLength_handle",
+			"LOG",
+			"fur_NumLayers",
+			"mvpMatrixHandle",
+			"bgOrthoProjMatrix",
+			"viewportPositionX",
+			"vbTexSamplerVideoHandle",
+			"sphere",
+			"g_Densit",
+			"rnd",
+			"Texture",
+			"textures",
+			"texture",
+			"teapot",
+			"banana",
+			"non_partner_lead_gen_standard_no_js_form",
+			"imagecache_preset_flush",
+			"_imagecache_recursive_delete",
+			"clear",
+			"cache",
+			"mh50",
+			"image_get_info",
+			"imagecache_presets()",
+			"imagecache_create_path",
+			"view",
+			"views",
+			"theme_imagecache",
+			"theme",
+			"rows",
+			"email",
+			"subtotal",
+			"summary",
+			"promotion",
+			"uc-price",
+			"price",
+			"order_summary_layout",
+			"theme_gvt_checkout_cart_review_table",
+			"reviews",
+			"invalidActivityRange",
+			"#invalidActivityRange",
+			"opacity",
+			"datepicker",
+			"check_in",
+			"slideToggle",
+			"slide",
+			"cancel",
+			"print_r",
+			"validate",
+			"required",
+			"date",
+			"print_r",
+			"category",
+			"button",
+			"breadcrumb",
+			"print_r",
+			"non_partner_lead_gen_thank_you_message",
+			"button",
+			"foreach",
+			"console",
+			"print_r",
+			"'",
+			"print_r",
+			"redirect",
+			"unset",
+			"rest",
+			"back",
+			"review",
+			"uc_cart_checkout_form",
+			"uc_cart_checkout_form_submit",
+			"#submit",
+			"gvt_checkout_save_current_billing_form_submit",
+			"submit",
+			".tooltip",
+			"tooltip",
+			"price-text",
+			"item-price",
+			".datepicker",
+			".date",
+			".datepopup",
+			".popup-item.ui-dialog-content",
+			".popup-item",
+			"firstItemAddedToCart",
+			"without-item",
+			"getTotalPrice",
+			"animateSavingsMeter",
+			"animate",
+			"removeItem",
+			"remove",
+			"object_test",
+			"getTotalPrice",
+			"with-item-wrapper",
+			"meter",
+			"maxDate",
+			".ui-widget",
+			"edit-submit-1",
+			"display-dates",
+			"display dates",
+			"checkin-icon",
+			"edit-check-out",
+			"initChangeDatesForm",
+			"initChangeDatesForm()",
+			"change dates",
+			"change",
+			"setTimeout"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/src/com/qualcomm/QCARSamples/Dominoes/Dominoes.java",
+					"settings":
+					{
+						"buffer_size": 31349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23887,
+								23887
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13176.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lemmings/src/com/qualcomm/QCARSamples/ImageTargets/ImageTargets.java",
+					"settings":
+					{
+						"buffer_size": 31918,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										20924,
+										20938
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								10647,
+								10647
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5176.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Ray/Documents/CS480/senior_design/helloWorld/src/com/example/myapp/myActivity.java",
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								943,
+								943
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Lemmings/jni/ImageTargets.cpp",
+					"settings":
+					{
+						"buffer_size": 52231,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2251,
+										2262
+									],
+									[
+										30133,
+										30208
+									],
+									[
+										35415,
+										35415
+									],
+									[
+										45203,
+										45281
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								34601,
+								34601
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Dominoes.cpp",
+					"settings":
+					{
+						"buffer_size": 47429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15554,
+								15554
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7362.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/Dominoes.h",
+					"settings":
+					{
+						"buffer_size": 6474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3562,
+								3579
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2682.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Lemmings/jni/glow_shaders.h",
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1114,
+								1114
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/math.h",
+					"settings":
+					{
+						"buffer_size": 13254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9221,
+								9228
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5701.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/src/com/qualcomm/QCARSamples/Dominoes/GUIManager.java",
+					"settings":
+					{
+						"buffer_size": 5698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/vuforia-sdk-android-1-5-9/samples/Dominoes/jni/CubeShaders.h",
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								886
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Lemmings/jni/fur_shaders.h",
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1557
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Lemmings/jni/SampleUtils.h",
+					"settings":
+					{
+						"buffer_size": 2124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1276,
+								1276
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Lemmings/jni/SampleUtils.cpp",
+					"settings":
+					{
+						"buffer_size": 6964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2964,
+								2886
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1721.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Lemmings/jni/Android.mk",
+					"settings":
+					{
+						"buffer_size": 4372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3684,
+								3684
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Lemmings/jni/SampleMath.cpp",
+					"settings":
+					{
+						"buffer_size": 10736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 199.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 99.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lib",
+				"sites/all/themes/basic/js/lib.js"
+			],
+			[
+				"gvt",
+				"sites/all/modules/_custom/gvt_theme_functions/gvt_theme_functions.module"
+			],
+			[
+				"lead",
+				"sites/all/modules/_custom/lead_gen/lead_gen.module"
+			],
+			[
+				"non",
+				"sites/all/modules/_custom/non_partner_lead_gen/non_partner_lead_gen.module"
+			],
+			[
+				"rate",
+				"sites/all/modules/_custom/ratesheet/js/ratesheet.js"
+			],
+			[
+				"popup",
+				"sites/all/modules/_custom/package_builder/js/popupItem.js"
+			],
+			[
+				"shows",
+				"sites/all/modules/_custom/package_builder/includes/lib/ShowsPopupItem.php"
+			],
+			[
+				"db6dbo",
+				"sites/all/modules/_custom/package_builder/includes/lib/D6DBObject.php"
+			],
+			[
+				"collapsed",
+				"sites/all/modules/_custom/package_builder/theme/collapsed-item.tpl.php"
+			],
+			[
+				"gvt_the",
+				"sites/all/modules/_custom/gvt_theme_functions/gvt_theme_functions.module"
+			],
+			[
+				"sch_ti",
+				"sites/all/modules/_custom/scheduler/sch_ticketing/sch_ticketing.module"
+			],
+			[
+				"temp",
+				"sites/all/themes/basic/template.php"
+			],
+			[
+				"dbo",
+				"sites/all/modules/_custom/package_builder/includes/lib/DBObject.php"
+			],
+			[
+				"comm",
+				"includes/common.inc"
+			],
+			[
+				"page.",
+				"modules/system/page.tpl.php"
+			],
+			[
+				"sup",
+				"sites/all/modules/_custom/supplier_notify/supplier_notify.module"
+			],
+			[
+				"pb",
+				"sites/all/modules/_custom/package_builder/includes/lib/pb_testground.php"
+			],
+			[
+				"pb_t",
+				"sites/all/modules/_custom/package_builder/includes/lib/pb_testground.php"
+			],
+			[
+				"supp",
+				"sites/all/modules/_custom/supplier_notify/supplier_notify.module"
+			],
+			[
+				"item",
+				"sites/all/modules/_custom/package_builder/includes/lib/Item.php"
+			],
+			[
+				"356",
+				"sites/all/modules/ubercart/uc_store/countries/india_356_2.cif"
+			],
+			[
+				"categ",
+				"sites/all/modules/_custom/package_builder/includes/lib/Category.php"
+			],
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Ray/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/cs460.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
